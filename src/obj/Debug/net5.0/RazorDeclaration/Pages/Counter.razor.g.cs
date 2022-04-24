@@ -13,70 +13,70 @@ namespace BlazorApp.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 1 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 2 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 3 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 4 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 5 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 6 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 7 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 8 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 9 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using BlazorApp;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/home/runner/HomelyEmotionalBlock/BlazorApp/_Imports.razor"
+#line 10 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\_Imports.razor"
 using BlazorApp.Shared;
 
 #line default
@@ -91,7 +91,7 @@ using BlazorApp.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "/home/runner/HomelyEmotionalBlock/BlazorApp/Pages/Counter.razor"
+#line 9 "c:\Users\hello\OneDrive\Documents\GitHub\blz-ice-dotnet\src\Pages\Counter.razor"
        
     private int currentCount = 0;
 
